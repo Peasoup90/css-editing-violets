@@ -1,0 +1,38 @@
+/* Write your CSS here - remember to add Id's or classes to the HTML file */
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;    
+}
+
+h1 {
+    text-align: center;
+    background-image: url(Records.jpg);
+    font-size: 100px;
+    font-weight: bold;
+
+}
+
+h2 {
+
+    font-size: 25px;
+    text-align: center;
+    background-color: #ef8354;
+    font-weight: bold;
+    color: white;
+}
+
+span {
+    font-weight: bold;
+}
+
+a:link {
+    color: #ef8354;
+}
+
+a:hover {
+    color: #9c528b;
+}
+
+footer {
+    text-align: center;
+}
